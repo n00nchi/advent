@@ -1,0 +1,11 @@
+
+loop over line and then
+Check if char equals char + 2 if so break
+
+1000 x 1000 grid
+
+lights in grid are numbered from 0 to 999
+
+lights at each corner are: 0,0 - 0,999 - 999,999 - 999,0
+
+the inclusive ranges given as coordinate pairs
